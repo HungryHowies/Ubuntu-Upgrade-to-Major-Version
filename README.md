@@ -6,17 +6,13 @@ Upgrade from Ubuntu 20.04 LTS to Ubuntu 22.04 LTS
 Before you begin the upgrade, ensure you meet the following requirements:
 
 At least 20 GB of free disk space. You can check the available disk space using the df -Th command.
-Ensure you have a regular user configured with sudo privileges with access to SSH or the terminal app. This is the user you will use to perform the upgrade process.
+Ensure you have a regular user configured with sudo privileges with access to SSH or the terminal app. 
 In addition, ensure you have a fast and stable internet connection. Do not cancel the operation once it’s begun.
-Ensure your UPS or battery are fully charged and working.
 Close all open applications.
 
 ## Step 1: Backup all your data
 
-It is prudent to take a backup of all your databases and files before embarking on any major upgrade of an operating system. This ensures you will not lose your data in case something goes wrong during the upgrade process. 
-
-
-
+Take a backup of all your databases and files before embarking on any major upgrade of an operating system. This ensures you will not lose your data in case something goes wrong during the upgrade process. 
 
 ## Step 2: Upgrade all the system packages
 
